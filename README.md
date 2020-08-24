@@ -1,1 +1,3 @@
-# lgtkazu.blog.io
+# Why did I decide to become a software engineer?
+
+In my highschool days one of my favorite subjects is Computer mostly it talks about the parts and programs that you can use in the pc. There are lessons that talks about basics of html and java but for the most part we did basic animations and website developing. I myself is a pc gamer and my personal favorite are mmorpg(arpg,jrpg), anyway these gaming devs have their websites and I am always intrigued on how they actaully make it function properly like links, pictures, proper placements to make the whole page neat and stylish. But what pushes me to become a software engineer is the career opportunities that I can have to make my dream a reality since this has been my chidhood dream. I always want to see what makes this specific app or program function the way it is? and I always look foward to learn and adapt in software engineering.
