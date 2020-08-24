@@ -1,0 +1,1 @@
+# lgtkazu.blog.io
